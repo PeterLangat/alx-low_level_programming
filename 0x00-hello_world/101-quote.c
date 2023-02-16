@@ -4,7 +4,7 @@
  * main - Print using write function
  *
  *
- * Return: Always 0 (Success)
+ * Return: Always 1
  */
 int main(void)
 {
