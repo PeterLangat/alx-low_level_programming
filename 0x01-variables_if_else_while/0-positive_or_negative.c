@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Print random numbers status
- * 
- * Return: Always 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -18,7 +18,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	else if (n == 0)
 		printf("%d is zero\n", n);
-	else if
+	else
 		printf("%d is negative\n", n);
 	return (0);
 }
