@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Print status of random number
- *
- * Return: Always 0 (Success)
+ * main - Print random numbers status
+ * 
+ * Return: Always 0
  */
 int main(void)
 {
