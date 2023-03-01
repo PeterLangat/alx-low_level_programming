@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints a[2] = 98
+ * main - magic
  *
  * Return: Always 0.
  */
